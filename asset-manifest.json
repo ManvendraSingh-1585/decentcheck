@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/decentcheck/static/css/main.6d83a5e1.css",
+    "main.js": "/decentcheck/static/js/main.8c2de474.js",
+    "static/js/787.0ca31bbd.chunk.js": "/decentcheck/static/js/787.0ca31bbd.chunk.js",
+    "static/media/Dashboard.jpg": "/decentcheck/static/media/Dashboard.871f59aa361109c4822c.jpg",
+    "static/media/bg.jpeg": "/decentcheck/static/media/bg.bb7488cf0d2a68dca393.jpeg",
+    "static/media/create.png": "/decentcheck/static/media/create.01888265a530da8b49f1.png",
+    "static/media/logo.png": "/decentcheck/static/media/logo.956137c19d929f917942.png",
+    "static/media/steer.jpg": "/decentcheck/static/media/steer.75d57ab923ffbfe4b658.jpg",
+    "index.html": "/decentcheck/index.html",
+    "main.6d83a5e1.css.map": "/decentcheck/static/css/main.6d83a5e1.css.map",
+    "main.8c2de474.js.map": "/decentcheck/static/js/main.8c2de474.js.map",
+    "787.0ca31bbd.chunk.js.map": "/decentcheck/static/js/787.0ca31bbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d83a5e1.css",
+    "static/js/main.8c2de474.js"
+  ]
+}
